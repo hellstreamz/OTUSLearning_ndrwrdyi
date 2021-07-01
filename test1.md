@@ -1,1 +1,1 @@
-разница1
+разница1(update via GIT GUI)
