@@ -1,9 +1,6 @@
-#include "example.cpp"
-#include "example.h"
-#include "move_me_out.cpp"
-#include "move_me_out.h"
 #include <iostream>
-
+#include "example.h"
+#include "move_me_out.h"
 
 
 	
